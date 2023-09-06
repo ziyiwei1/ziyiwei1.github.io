@@ -11,9 +11,11 @@
     "profiles": [
       { "network": "github", "username": "ziyiwei1", "url": "http://github.com/ziyiwei1" },
       { "network": "linkedin", "username": "ZIYI WEI", "url": "http://linkedin.com/in/ziyiwei1" },
+    ]
+  },
       
   "interests": [
     { "name": "Consumer Behavior" },
     { "name": "Computer Programming" }
-  ]
-    
+    ]
+}
