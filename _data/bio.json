@@ -14,30 +14,5 @@
       
   "interests": [
     { "name": "Consumer Behavior" },
-    { "name": "Computer Programming" },
-    { "name": "" },
-    { "name": "" },
-    { "name": "" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", , "Java",  ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "City University of Hong Kong, HKSAR",
-      "area": "Finance (expected Spring, 2024)",
-      "studyType": "B.B.A.",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
- 
+    { "name": "Computer Programming" }
+    
